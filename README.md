@@ -1,2 +1,2 @@
 # AB_capstone
-Using github
+Using github for this capstone project
